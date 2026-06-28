@@ -1,6 +1,5 @@
 import React, { useMemo } from 'react';
 
-// 1. Corrected imports to match your actual file tree naming conventions exactly
 import logo1 from '../assets/logo-first.PNG';
 import logo2 from '../assets/logo-second.PNG';
 import logo3 from '../assets/logo-third.PNG';

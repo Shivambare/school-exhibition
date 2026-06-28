@@ -28,7 +28,7 @@ const Footer = () => {
       display: "flex",
       alignItems: "center",
       gap: "10px",
-      marginBottom: "15px", // Increased gap between icon/title and paragraph
+      marginBottom: "15px", 
       fontSize: "15px",
     },
     icon: {

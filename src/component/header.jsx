@@ -66,7 +66,6 @@ export default function PremierHeader() {
           onClick={() => setIsClicked(!isClicked)}
           style={{
             cursor: "pointer",
-            // REMOVED BORDER: If scrolled, border is none, otherwise check isClicked
             border: isScrolled ? "none" : (isClicked ? "none" : `2px solid ${TOKEN.navyDark}`),
             background: isClicked ? TOKEN.navyDark : "transparent",
             padding: 0,

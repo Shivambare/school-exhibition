@@ -1,6 +1,4 @@
 import React from 'react';
-
-// 1. Import your local assets correctly from the assets folder
 import trustedFirst from '../assets/trusted-first.PNG';
 import trustedSecond from '../assets/trusted-second.PNG';
 import trustedThird from '../assets/trusted-third.PNG';
@@ -33,7 +31,7 @@ const styles = {
     gap: '20px',
     width: '100%',
     maxWidth: '1200px',
-    margin: '40px auto', /* 40px Top ani Bottom margin add keli ahe, auto ne center hoin */
+    margin: '40px auto', 
     padding: '0 20px',
     boxSizing: 'border-box',
   },
