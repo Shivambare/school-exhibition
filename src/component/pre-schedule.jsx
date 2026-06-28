@@ -6,9 +6,7 @@ const Banner = () => {
       <style>{bannerStyles}</style>
 
       <div className="school-banner__container">
-        {/* Left Content Section */}
         <div className="school-banner__content">
-          {/* em टॅग काढून टाकले आहेत */}
           <span className="school-banner__tagline">Exciting Opportunities for Parents!</span>
           <h1 className="school-banner__title">
             Pre-schedule Your <br />
